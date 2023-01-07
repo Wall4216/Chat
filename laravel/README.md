@@ -6,5 +6,5 @@
 </p>
 <h1>## Chat Channel</h1>
 This is a minimal project representing a small developed web chat. Thanks:C
-
+don't forget to migrate, php artisan migrate.
 
