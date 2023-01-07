@@ -7,6 +7,7 @@
 <h1>## Chat Channel</h1>
 #This is a minimal project representing a small developed web chat. Thanks:C
 #instructions for opening the application:
+<br>
 1) php artisan migrate <br>
 2) npm run watch<br>
 3) php artisan serve <br>
