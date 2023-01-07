@@ -10,7 +10,7 @@ use Illuminate\Http\Request;
 
 class ChatController extends Controller
 {
-    public function index(): Application
+    public function index()
     {
         auth()->loginUsingId(1);
 
